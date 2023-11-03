@@ -14,7 +14,7 @@ int binary_tree_balance(const binary_tree_t *tree)
 }
 
 /**
- * binary_tree_height - Determines a binary tree's height.
+ * binary_tree_height - Determines a binary tree height.
  * @tree: Pointer to the tree root node so that the height can be determined.
  * Return: Function must return 0 if tree is NULL else, return height.
  */
